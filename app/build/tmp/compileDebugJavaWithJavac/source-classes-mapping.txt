@@ -1,0 +1,131 @@
+hilt_aggregated_deps/_com_flaviu_todoapp_ui_tasks_TasksViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_flaviu_todoapp_ui_tasks_TasksViewModel_HiltModules_KeyModule
+com/flaviu/todoapp/ToDoApplication_GeneratedInjector.java
+ com.flaviu.todoapp.ToDoApplication_GeneratedInjector
+com/flaviu/todoapp/Hilt_ToDoApplication.java
+ com.flaviu.todoapp.Hilt_ToDoApplication
+ com.flaviu.todoapp.Hilt_ToDoApplication$1
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+hilt_aggregated_deps/_com_flaviu_todoapp_ui_tasks_TasksViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_flaviu_todoapp_ui_tasks_TasksViewModel_HiltModules_BindsModule
+hilt_aggregated_deps/_com_flaviu_todoapp_ui_tasks_TasksFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_flaviu_todoapp_ui_tasks_TasksFragment_GeneratedInjector
+hilt_aggregated_deps/_com_flaviu_todoapp_di_AppModule.java
+ hilt_aggregated_deps._com_flaviu_todoapp_di_AppModule
+com/flaviu/todoapp/ui/tasks/TasksViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_HiltModules_KeyModule_ProvideFactory
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/flaviu/todoapp/ui/Hilt_MainActivity.java
+ com.flaviu.todoapp.ui.Hilt_MainActivity
+ com.flaviu.todoapp.ui.Hilt_MainActivity$1
+com/flaviu/todoapp/data/TaskDatabase_CallBack_Factory.java
+ com.flaviu.todoapp.data.TaskDatabase_CallBack_Factory
+com/flaviu/todoapp/DataBindingTriggerClass.java
+ com.flaviu.todoapp.DataBindingTriggerClass
+com/flaviu/todoapp/di/AppModule_ProvideTaskDaoFactory.java
+ com.flaviu.todoapp.di.AppModule_ProvideTaskDaoFactory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/flaviu/todoapp/ui/tasks/Hilt_TasksFragment.java
+ com.flaviu.todoapp.ui.tasks.Hilt_TasksFragment
+com/flaviu/todoapp/data/TaskDatabase_Impl.java
+ com.flaviu.todoapp.data.TaskDatabase_Impl
+ com.flaviu.todoapp.data.TaskDatabase_Impl$1
+com/flaviu/todoapp/ui/tasks/TasksFragment_GeneratedInjector.java
+ com.flaviu.todoapp.ui.tasks.TasksFragment_GeneratedInjector
+com/flaviu/todoapp/ui/MainActivity_GeneratedInjector.java
+ com.flaviu.todoapp.ui.MainActivity_GeneratedInjector
+com/flaviu/todoapp/ui/tasks/TasksViewModel_Factory.java
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_Factory
+com/flaviu/todoapp/di/AppModule_ProvideDatabaseFactory.java
+ com.flaviu.todoapp.di.AppModule_ProvideDatabaseFactory
+com/flaviu/todoapp/BR.java
+ com.flaviu.todoapp.BR
+com/flaviu/todoapp/ToDoApplication_HiltComponents.java
+ com.flaviu.todoapp.ToDoApplication_HiltComponents
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityRetainedC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityRetainedC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$FragmentC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$FragmentC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$FragmentCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ServiceC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ServiceC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ServiceCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$SingletonC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewModelC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewModelC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewModelCBuilderModule
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewWithFragmentC
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.flaviu.todoapp.ToDoApplication_HiltComponents$ViewWithFragmentCBuilderModule
+dagger/hilt/internal/processedrootsentinel/codegen/_com_flaviu_todoapp_ToDoApplication.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_flaviu_todoapp_ToDoApplication
+hilt_aggregated_deps/_com_flaviu_todoapp_ToDoApplication_GeneratedInjector.java
+ hilt_aggregated_deps._com_flaviu_todoapp_ToDoApplication_GeneratedInjector
+hilt_aggregated_deps/_com_flaviu_todoapp_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_flaviu_todoapp_ui_MainActivity_GeneratedInjector
+com/flaviu/todoapp/di/AppModule_ProvideApplicationScopeFactory.java
+ com.flaviu.todoapp.di.AppModule_ProvideApplicationScopeFactory
+ com.flaviu.todoapp.di.AppModule_ProvideApplicationScopeFactory$InstanceHolder
+com/flaviu/todoapp/data/TaskDao_Impl.java
+ com.flaviu.todoapp.data.TaskDao_Impl
+ com.flaviu.todoapp.data.TaskDao_Impl$1
+ com.flaviu.todoapp.data.TaskDao_Impl$2
+ com.flaviu.todoapp.data.TaskDao_Impl$3
+ com.flaviu.todoapp.data.TaskDao_Impl$4
+ com.flaviu.todoapp.data.TaskDao_Impl$5
+ com.flaviu.todoapp.data.TaskDao_Impl$6
+ com.flaviu.todoapp.data.TaskDao_Impl$7
+dagger/hilt/internal/aggregatedroot/codegen/_com_flaviu_todoapp_ToDoApplication.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_flaviu_todoapp_ToDoApplication
+com/flaviu/todoapp/DaggerToDoApplication_HiltComponents_SingletonC.java
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$1
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ActivityCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ActivityCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$Builder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$FragmentCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$FragmentCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ServiceCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$SwitchingProvider
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewModelCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewModelCImpl
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.flaviu.todoapp.DaggerToDoApplication_HiltComponents_SingletonC$ViewWithFragmentCImpl
+com/flaviu/todoapp/BuildConfig.java
+ com.flaviu.todoapp.BuildConfig
+com/flaviu/todoapp/ToDoApplication_ComponentTreeDeps.java
+ com.flaviu.todoapp.ToDoApplication_ComponentTreeDeps
+com/flaviu/todoapp/DataBinderMapperImpl.java
+ com.flaviu.todoapp.DataBinderMapperImpl
+ com.flaviu.todoapp.DataBinderMapperImpl$InnerBrLookup
+ com.flaviu.todoapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/flaviu/todoapp/ui/tasks/TasksViewModel_HiltModules.java
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_HiltModules
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_HiltModules$BindsModule
+ com.flaviu.todoapp.ui.tasks.TasksViewModel_HiltModules$KeyModule
+com/flaviu/todoapp/databinding/ActivityMainBinding.java
+ com.flaviu.todoapp.databinding.ActivityMainBinding
+com/flaviu/todoapp/databinding/FragmentTasksBinding.java
+ com.flaviu.todoapp.databinding.FragmentTasksBinding
+com/flaviu/todoapp/databinding/ItemTaskBinding.java
+ com.flaviu.todoapp.databinding.ItemTaskBinding
+com/flaviu/todoapp/databinding/FragmentAddEditTaskBinding.java
+ com.flaviu.todoapp.databinding.FragmentAddEditTaskBinding
